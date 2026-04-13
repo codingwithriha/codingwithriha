@@ -22,6 +22,10 @@
 ![](https://github-contributor-stats.vercel.app/api?username=codingwithriha&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+## 📈 Contribution Graph
+![](https://github-readme-activity-graph.vercel.app/graph?username=codingwithriha&theme=tokyo-night)
+
+---
 [![](https://komarev.com/ghpvc/?username=codingwithriha&icon=0&color=blue)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
