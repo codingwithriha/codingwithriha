@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Riha Shehzadi<br><br>💻 Frontend Developer | Software Engineer<br>🚀 Passionate about building scalable, user-friendly web applications<br><br> 🎯 Specialized in React.js, TypeScript & Modern Frontend Development<br>⚙️ Also experienced in PHP & Laravel for backend development<br>🎨 Strong focus on UI/UX, responsiveness & performance optimization<br>🔄 Experienced in building real-world SaaS & dashboard systems<br>🌱 Continuously learning and exploring full-stack development<br>
+👋 Hi, I'm Riha Shahzadi<br><br>💻 Frontend Developer | Software Engineer<br>🚀 Passionate about building scalable, user-friendly web applications<br><br> 🎯 Specialized in React.js, TypeScript & Modern Frontend Development<br>⚙️ Also experienced in PHP & Laravel for backend development<br>🎨 Strong focus on UI/UX, responsiveness & performance optimization<br>🔄 Experienced in building real-world SaaS & dashboard systems<br>🌱 Continuously learning and exploring full-stack development<br>
 
 
 ## 🌐 Socials:
