@@ -170,7 +170,6 @@ Render           ████████░░░░
 
 ## `{ projects }`
 
-> Full-stack MERN work — database schema to deployed UI, owned end-to-end.
 
 <br/>
 
