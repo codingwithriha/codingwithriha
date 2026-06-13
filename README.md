@@ -1,39 +1,30 @@
-<!-- ████████████████████████████████████████████████████████████ -->
-<!--                  RIHA SHAHZADI — GITHUB PROFILE             -->
-<!-- ████████████████████████████████████████████████████████████ -->
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!--              RIHA SHAHZADI  ·  GITHUB PROFILE README          -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-<!-- SIGNATURE HERO — Dark terminal aesthetic meets clean engineering brand -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0f0f,50:1a1a2e,100:16213e&height=280&section=header&text=Riha%20Shahzadi&fontColor=00d4ff&fontSize=70&fontAlignY=40&desc=MERN%20Stack%20Developer%20%E2%80%A2%20Full-Stack%20Engineer&descColor=a78bfa&descSize=20&descAlignY=62&stroke=00d4ff&strokeWidth=1&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a192f,70:112240,100:0d1117&height=220&section=header&text=Hi%2C%20I'm%20Riha%20Shahzadi%20%F0%9F%91%8B&fontSize=42&fontColor=64ffda&fontAlignY=42&desc=MERN%20Stack%20Developer%20%7C%20Full-Stack%20Engineer&descColor=8892b0&descSize=18&descAlignY=64&animation=fadeIn" />
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        LIVE TYPING                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ──────────────────── TYPING ANIMATION ──────────────────── -->
 
 <div align="center">
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=680&height=45&lines=const+dev+%3D+new+MERNStackDeveloper(%22Riha%22)%3B;%E2%86%92+MongoDB+%7C+Express+%7C+React+%7C+Node.js;%E2%86%92+Building+full-stack+apps+that+ship+%26+scale;%E2%86%92+TypeScript+%7C+REST+APIs+%7C+JWT+%7C+Redux;%E2%86%92+Open+to+full-stack+%26+MERN+opportunities+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
-
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=64FFDA&center=true&vCenter=true&width=720&height=40&lines=const+riha+%3D+new+MERNStackDeveloper()%3B+%E2%9C%93;MongoDB+%E2%80%A2+Express.js+%E2%80%A2+React.js+%E2%80%A2+Node.js;Building+full-stack+apps+that+ship+%26+scale+%F0%9F%9A%80;TypeScript+%7C+REST+APIs+%7C+JWT+%7C+Redux+Toolkit;Open+to+MERN+%26+Full-Stack+opportunities+%F0%9F%92%BC" />
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    STATUS BADGES ROW                         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ──────────────────── STATUS ROW ──────────────────── -->
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-riha--shahzadi.vercel.app-00d4ff?style=for-the-badge&labelColor=0d1117)](https://riha-shahzadi.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-riha--shahzadi.vercel.app-64ffda?style=for-the-badge&logo=vercel&logoColor=0d1117&labelColor=112240)](https://riha-shahzadi.vercel.app)
 &nbsp;
-[![Status](https://img.shields.io/badge/💼_Status-Open_to_MERN_Roles-22c55e?style=for-the-badge&labelColor=0d1117)](https://linkedin.com/in/riha-shahzadi)
+[![Hire Me](https://img.shields.io/badge/💼_Open_to_Work-MERN_Roles-64ffda?style=for-the-badge&labelColor=112240)](https://linkedin.com/in/riha-shahzadi)
 &nbsp;
-[![Views](https://komarev.com/ghpvc/?username=codingwithriha&style=for-the-badge&color=a78bfa&label=👁_Profile+Views&labelColor=0d1117)](https://github.com/codingwithriha)
+[![Profile Views](https://komarev.com/ghpvc/?username=codingwithriha&style=for-the-badge&color=64ffda&label=Profile+Views&labelColor=112240)](https://github.com/codingwithriha)
 
 </div>
 
@@ -41,114 +32,109 @@
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--               SIGNATURE ELEMENT: TERMINAL ABOUT ME          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!--                        ABOUT ME                               -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-```javascript
+## `{ about_me }`
+
+```js
 /**
- * RIHA SHAHZADI
- * MERN Stack Developer | Full-Stack Engineer
- * ─────────────────────────────────────────────
+ * ┌─────────────────────────────────────────────────────────┐
+ * │              RIHA SHAHZADI  —  whoami                   │
+ * └─────────────────────────────────────────────────────────┘
  */
 
 const riha = {
-  role        : "MERN Stack Developer",
-  location    : "Pakistan 🇵🇰",
-  stack       : ["MongoDB", "Express.js", "React.js", "Node.js"],
-  superpower  : "Turning complex problems into clean, deployable products",
+  title      :  "MERN Stack Developer  |  Full-Stack Engineer",
+  location   :  "Pakistan 🇵🇰",
+  stack      :  [ "MongoDB", "Express.js", "React.js", "Node.js" ],
+  also       :  [ "TypeScript", "Next.js", "Redux", "TailwindCSS" ],
 
-  currently   : {
-    building  : "Full-stack SaaS platforms with MERN + TypeScript",
-    learning  : "System design, Redis caching, WebSockets at scale",
-    openTo    : "Full-time MERN / Full-Stack roles",
-  },
+  superpower :  "End-to-end ownership — schema → API → UI → deploy",
 
-  strengths   : [
-    "End-to-end feature ownership  →  design → build → deploy",
-    "REST API design & JWT auth     →  secure, well-structured backends",
-    "React architecture             →  reusable components, clean state",
-    "SaaS & dashboard development   →  real-world product experience",
-    "Performance-first mindset      →  fast UIs & optimized DB queries",
-  ],
+  building   :  "Production MERN SaaS platforms with TypeScript",
+  learning   :  "System design · Redis · Docker · WebSockets at scale",
+  openTo     :  "Full-time MERN / Full-Stack roles",
 
-  contact     : "rihashehzadi2003@gmail.com",
-  funFact     : "I teach what I build → youtube.com/@codingwithriha 🎬",
+  teaches    :  "youtube.com/@codingwithriha  🎬",
+  contact    :  "rihashehzadi2003@gmail.com",
 };
 
-// → What I bring to your team:
-riha.strengths.forEach(s => console.log("  ✦", s));
+export default riha; // → ready to ship 🚀
 ```
 
 <br/>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       MERN STACK VISUAL                      -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!--                      MERN CORE TABLE                          -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+## `{ stack }`
 
 <div align="center">
 
-### ⬡ &nbsp; My MERN Ecosystem &nbsp; ⬡
-
 <br/>
 
-<!-- ROW 1: MERN CORE — these are the headline skills -->
+**— Core Stack —**
 
-| &nbsp;&nbsp;&nbsp;**M**ongoDB&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;**E**xpress.js&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;**R**eact.js&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;**N**ode.js&nbsp;&nbsp;&nbsp; |
+| ![M](https://img.shields.io/badge/M-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white) | ![E](https://img.shields.io/badge/E-Express.js-404d59?style=for-the-badge&logo=express&logoColor=61dafb) | ![R](https://img.shields.io/badge/R-React.js-20232a?style=for-the-badge&logo=react&logoColor=61dafb) | ![N](https://img.shields.io/badge/N-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) |
 |:---:|:---:|:---:|:---:|
-| ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white) | ![Express](https://img.shields.io/badge/-Express.js-404d59?style=for-the-badge&logo=express&logoColor=61DAFB) | ![React](https://img.shields.io/badge/-React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Node](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) |
-| Document DB | REST APIs | UI Layer | Runtime |
+| Database | Server | UI Layer | Runtime |
+
+<br/>
 
 </div>
 
-<br/>
-
-<!-- FULL STACK ORGANIZED -->
-
-<table align="center">
+<!-- 3-COLUMN SKILL TABLE -->
+<table>
 <tr>
 <td width="33%" valign="top">
 
-**⚛️ Frontend**
+**⚛️ &nbsp;Frontend**
+
 ```
-React.js          ████████████ 
-TypeScript        ███████████░ 
-Next.js           █████████░░░ 
-TailwindCSS       ████████████ 
-Redux Toolkit     ██████████░░ 
-React Hook Form   █████████░░░ 
-Vite              ████████████ 
-HTML5 / CSS3      ████████████ 
-SASS / SCSS       ██████████░░ 
+React.js         ████████████
+TypeScript       ███████████░
+Next.js          █████████░░░
+TailwindCSS      ████████████
+Redux Toolkit    ██████████░░
+React Hook Form  █████████░░░
+SASS / SCSS      ██████████░░
+HTML5 · CSS3     ████████████
+Vite             ████████████
 ```
 
 </td>
 <td width="33%" valign="top">
 
-**🔧 Backend**
+**🔧 &nbsp;Backend**
+
 ```
-Node.js           ████████████ 
-Express.js        ████████████ 
-REST API Design   ██████████░░ 
-JWT / Auth        ██████████░░ 
-Socket.io         ████████░░░░ 
-Laravel / PHP     ███████░░░░░ 
+Node.js          ████████████
+Express.js       ████████████
+REST API Design  ███████████░
+JWT / Auth       ██████████░░
+Mongoose ODM     ███████████░
+Socket.io        ████████░░░░
+Laravel / PHP    ███████░░░░░
 ```
 
 </td>
 <td width="33%" valign="top">
 
-**🗄️ Database & Cloud**
+**🗄️ &nbsp;Data & Cloud**
+
 ```
-MongoDB           ████████████ 
-Mongoose          ███████████░ 
-MySQL             █████████░░░ 
-Firebase          ████████░░░░ 
-Supabase          ███████░░░░░ 
-Vercel            ████████████ 
-Netlify           ███████████░ 
+MongoDB          ████████████
+MySQL            █████████░░░
+Firebase         ████████░░░░
+Supabase         ███████░░░░░
+Vercel           ████████████
+Netlify          ███████████░
+Render           ████████░░░░
 ```
 
 </td>
@@ -159,18 +145,18 @@ Netlify           ███████████░
 
 <div align="center">
 
-**🛠️ Tools & Design**
+**🛠️ &nbsp;Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=flat-square&logo=githubactions&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-0081CB?style=flat-square&logo=mui&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=flat-square&logo=bootstrap&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=Canva&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 
 </div>
 
@@ -178,247 +164,210 @@ Netlify           ███████████░
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     FEATURED PROJECTS                        -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!--                    FEATURED PROJECTS                          -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-## 🚀 &nbsp; Featured Work
+## `{ projects }`
 
-> Projects that demonstrate full-stack MERN ownership — from database schema to deployed UI.
+> Full-stack MERN work — database schema to deployed UI, owned end-to-end.
 
 <br/>
 
-<div align="center">
 <table>
 <tr>
-
-<!-- PROJECT 1 -->
 <td width="50%" valign="top">
-<h3>⚡ MERN SaaS Dashboard</h3>
-<img src="https://img.shields.io/badge/Status-Live-22c55e?style=flat-square" /> <img src="https://img.shields.io/badge/Stack-MERN_+_TypeScript-00d4ff?style=flat-square" />
 
-> Multi-tenant SaaS with role-based access, real-time data, and a fully custom component system.
+### ⚡ &nbsp;MERN SaaS Dashboard
 
-**What I built:**
-- JWT authentication + role-based route guards
-- RESTful API with Express + MongoDB aggregations  
-- React dashboard with Redux state management
-- Deployed on Vercel (frontend) + Render (backend)
+![MERN](https://img.shields.io/badge/Stack-MERN+TypeScript-64ffda?style=flat-square&labelColor=0d1117)
+![Status](https://img.shields.io/badge/Status-Live-22c55e?style=flat-square&labelColor=0d1117)
 
-**Impact:** Reduced client reporting time by ~60%
+Multi-tenant SaaS with role-based access, real-time analytics, and a custom component library.
+
+- 🔐 JWT auth + RBAC route protection
+- 📊 Express API + MongoDB aggregation pipelines
+- ⚛️ React + Redux state architecture
+- 🚀 Deployed: Vercel (FE) + Render (API)
+
+**→ Cut client reporting time by ~60%**
 
 <br/>
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-00d4ff?style=for-the-badge)](https://riha-shahzadi.vercel.app)
-[![Source](https://img.shields.io/badge/📂_Repository-1a1a2e?style=for-the-badge&logo=github)](https://github.com/codingwithriha)
+[![Demo](https://img.shields.io/badge/Live_Demo-64ffda?style=for-the-badge&logo=vercel&logoColor=0d1117)](https://riha-shahzadi.vercel.app)
+[![Repo](https://img.shields.io/badge/Repository-0d1117?style=for-the-badge&logo=github&logoColor=64ffda)](https://github.com/codingwithriha)
 
 </td>
-
-<!-- PROJECT 2 -->
 <td width="50%" valign="top">
-<h3>💬 Real-Time Chat App</h3>
-<img src="https://img.shields.io/badge/Status-Live-22c55e?style=flat-square" /> <img src="https://img.shields.io/badge/Stack-MERN_+_Socket.io-a78bfa?style=flat-square" />
 
-> Full-stack messaging app with WebSocket-powered live chat and persistent message history.
+### 💬 &nbsp;Real-Time Chat App
 
-**What I built:**
-- Socket.io rooms with real-time delivery
-- MongoDB message storage with pagination
-- JWT auth with refresh token rotation
-- Responsive React UI with typing indicators
+![Stack](https://img.shields.io/badge/Stack-MERN+Socket.io-a78bfa?style=flat-square&labelColor=0d1117)
+![Status](https://img.shields.io/badge/Status-Live-22c55e?style=flat-square&labelColor=0d1117)
 
-**Impact:** Sub-100ms message delivery latency
+Full-stack messaging platform with WebSocket rooms, auth, and persistent history.
+
+- ⚡ Socket.io rooms + live typing indicators
+- 🗄️ MongoDB messages with cursor pagination
+- 🔄 JWT refresh token rotation
+- 📱 Fully responsive React UI
+
+**→ Sub-100ms message delivery latency**
 
 <br/>
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-00d4ff?style=for-the-badge)](https://riha-shahzadi.vercel.app)
-[![Source](https://img.shields.io/badge/📂_Repository-1a1a2e?style=for-the-badge&logo=github)](https://github.com/codingwithriha)
+[![Demo](https://img.shields.io/badge/Live_Demo-64ffda?style=for-the-badge&logo=vercel&logoColor=0d1117)](https://riha-shahzadi.vercel.app)
+[![Repo](https://img.shields.io/badge/Repository-0d1117?style=for-the-badge&logo=github&logoColor=64ffda)](https://github.com/codingwithriha)
 
 </td>
 </tr>
 <tr>
-
-<!-- PROJECT 3 -->
 <td width="50%" valign="top">
-<h3>🛒 Full-Stack E-Commerce</h3>
-<img src="https://img.shields.io/badge/Status-Live-22c55e?style=flat-square" /> <img src="https://img.shields.io/badge/Stack-Next.js_+_MongoDB-f59e0b?style=flat-square" />
 
-> End-to-end storefront with cart management, product search, and secure checkout.
+### 🛒 &nbsp;Full-Stack E-Commerce
 
-**What I built:**
-- Next.js SSR/SSG for SEO-optimized pages
-- Express API with product filtering & search
-- Cart & order state with Redux Toolkit
-- Stripe-ready checkout integration
+![Stack](https://img.shields.io/badge/Stack-Next.js+MongoDB-f59e0b?style=flat-square&labelColor=0d1117)
+![Status](https://img.shields.io/badge/Status-Live-22c55e?style=flat-square&labelColor=0d1117)
 
-**Impact:** Lighthouse score 95+ across all pages
+SEO-optimized storefront with smart filtering, cart state, and checkout flow.
+
+- 🔍 Next.js SSR/SSG for Core Web Vitals
+- 🔎 Express product search + filter API
+- 🛒 Redux cart + order management
+- 💳 Stripe-ready payment integration
+
+**→ Lighthouse score 95+ across all pages**
 
 <br/>
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-00d4ff?style=for-the-badge)](https://riha-shahzadi.vercel.app)
-[![Source](https://img.shields.io/badge/📂_Repository-1a1a2e?style=for-the-badge&logo=github)](https://github.com/codingwithriha)
+[![Demo](https://img.shields.io/badge/Live_Demo-64ffda?style=for-the-badge&logo=vercel&logoColor=0d1117)](https://riha-shahzadi.vercel.app)
+[![Repo](https://img.shields.io/badge/Repository-0d1117?style=for-the-badge&logo=github&logoColor=64ffda)](https://github.com/codingwithriha)
 
 </td>
-
-<!-- PROJECT 4 -->
 <td width="50%" valign="top">
-<h3>📋 Task Management API</h3>
-<img src="https://img.shields.io/badge/Status-Live-22c55e?style=flat-square" /> <img src="https://img.shields.io/badge/Stack-Node.js_+_MongoDB-22c55e?style=flat-square" />
 
-> Production-grade REST API with full CRUD, authentication, and team collaboration features.
+### 📋 &nbsp;REST API — Task Manager
 
-**What I built:**
-- Clean MVC architecture with Express.js
-- MongoDB with Mongoose schemas & validation
-- JWT + bcrypt auth with protected routes
-- Postman-documented API with 30+ endpoints
+![Stack](https://img.shields.io/badge/Stack-Node.js+MongoDB-22c55e?style=flat-square&labelColor=0d1117)
+![Status](https://img.shields.io/badge/Status-Live-22c55e?style=flat-square&labelColor=0d1117)
 
-**Impact:** Handles concurrent users with <200ms avg response
+Production-grade API with MVC architecture, full CRUD, teams, and auth.
+
+- 🏗️ Clean MVC with Express.js + Mongoose
+- 🔐 JWT + bcrypt — protected route layer
+- 📝 Postman-documented — 30+ endpoints
+- 👥 Team workspaces + permission scopes
+
+**→ &lt;200ms avg response under concurrent load**
 
 <br/>
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-00d4ff?style=for-the-badge)](https://riha-shahzadi.vercel.app)
-[![Source](https://img.shields.io/badge/📂_Repository-1a1a2e?style=for-the-badge&logo=github)](https://github.com/codingwithriha)
+[![Demo](https://img.shields.io/badge/Live_Demo-64ffda?style=for-the-badge&logo=vercel&logoColor=0d1117)](https://riha-shahzadi.vercel.app)
+[![Repo](https://img.shields.io/badge/Repository-0d1117?style=for-the-badge&logo=github&logoColor=64ffda)](https://github.com/codingwithriha)
 
 </td>
 </tr>
 </table>
-</div>
 
 <br/>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     GITHUB ANALYTICS                         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!--                    GITHUB ANALYTICS                           -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-## 📊 &nbsp; GitHub Analytics
+## `{ analytics }`
 
 <br/>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.shion.dev/api?username=codingwithriha&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00d4ff&icon_color=a78bfa&text_color=c9d1d9&border_radius=10" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=codingwithriha&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=a78bfa&currStreakLabel=00d4ff&border_radius=10" />
+<img height="180em" src="https://github-readme-stats.shion.dev/api?username=codingwithriha&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=64ffda&icon_color=a78bfa&text_color=8892b0&border_radius=12" />
+&nbsp;
+<img height="180em" src="https://streak-stats.demolab.com/?user=codingwithriha&theme=tokyonight&hide_border=true&background=0d1117&ring=64ffda&fire=a78bfa&currStreakLabel=64ffda&sideLabels=8892b0&dates=8892b0&border_radius=12" />
 
 <br/><br/>
 
-<img width="40%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=codingwithriha&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&border_radius=10&langs_count=8" />
-
-</div>
-
-<br/>
-
-<!-- CONTRIBUTION GRAPH -->
-<div align="center">
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=codingwithriha&theme=tokyo-night&bg_color=0d1117&color=00d4ff&line=a78bfa&point=ffffff&area=true&hide_border=true&radius=8" />
-</div>
-
-<br/>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--              SNAKE CONTRIBUTION ANIMATION                    -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🐍 &nbsp; Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codingwithriha/codingwithriha/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codingwithriha/codingwithriha/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/codingwithriha/codingwithriha/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-> *Run the [snake workflow](.github/workflows/snake.yml) once to activate this animation →*
-
-</div>
-
-<br/>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     CURRENTLY SECTION                        -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🧭 &nbsp; Right Now
-
-<br/>
-
-<div align="center">
-
-| | |
-|:---|:---|
-| 🔨 &nbsp; **Building** | A production MERN SaaS boilerplate — auth, billing-ready, fully typed |
-| 📖 &nbsp; **Learning** | System design patterns, Redis, Docker basics for full-stack deployments |
-| 🎯 &nbsp; **Goal** | Land a MERN / Full-Stack role at a product-focused team |
-| 🎬 &nbsp; **Teaching** | Breaking down what I build at [Coding with Riha](https://youtube.com/@codingwithriha) |
-| 💡 &nbsp; **Ask me about** | MERN architecture, API design, React state, SaaS dashboard patterns |
-
-</div>
-
-<br/>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   CONNECT WITH ME                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🤝 &nbsp; Let's Connect
-
-<br/>
-
-<div align="center">
-
-<!-- TIER 1: PROFESSIONAL & PORTFOLIO -->
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=00d4ff&label=🌐)](https://riha-shahzadi.vercel.app)
-&nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/riha-shahzadi)
-&nbsp;&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rihashehzadi2003@gmail.com)
-&nbsp;&nbsp;
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@codingwithriha)
+<img height="160em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=codingwithriha&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=64ffda&text_color=8892b0&border_radius=12&langs_count=8&hide=css,html" />
 
 <br/><br/>
 
-<!-- TIER 2: CREATIVE & SOCIAL -->
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=codingwithriha&bg_color=0d1117&color=64ffda&line=a78bfa&point=64ffda&area_color=112240&area=true&hide_border=true&radius=8&custom_title=Riha's%20Contribution%20Graph" />
+
+</div>
+
+<br/>
+
+---
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!--                      RIGHT NOW                                -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+## `{ right_now }`
+
+<br/>
+
+<div align="center">
+
+| &nbsp; | &nbsp; |
+|:--|:--|
+| 🔨 &nbsp;**Building** | Production MERN SaaS boilerplate — auth + billing-ready + fully typed |
+| 📖 &nbsp;**Learning** | System design · Redis · Docker · React Server Components |
+| 🎯 &nbsp;**Goal** | MERN / Full-Stack role at a product-focused team |
+| 🎬 &nbsp;**Teaching** | Breaking down real builds at [Coding with Riha ↗](https://youtube.com/@codingwithriha) |
+| 💬 &nbsp;**Ask me about** | MERN architecture · REST API design · React state · SaaS patterns |
+| ⚡ &nbsp;**Fun fact** | I debug backends in the morning and polish UIs at night |
+
+</div>
+
+<br/>
+
+---
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!--                     CONNECT                                   -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+## `{ connect }`
+
+<br/>
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-riha--shahzadi.vercel.app-64ffda?style=for-the-badge&labelColor=0d1117)](https://riha-shahzadi.vercel.app)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/riha-shahzadi)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rihashehzadi2003@gmail.com)
+&nbsp;
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@codingwithriha)
+
+<br/><br/>
 
 [![Behance](https://img.shields.io/badge/Behance-1769ff?style=flat-square&logo=behance&logoColor=white)](https://behance.net/rihashehzadi)
 &nbsp;
-[![X](https://img.shields.io/badge/X-black.svg?style=flat-square&logo=X&logoColor=white)](https://x.com/RihaShehzadi)
+[![X / Twitter](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/RihaShehzadi)
 &nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/riha_shehzadi)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/riha_shehzadi)
 &nbsp;
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=Facebook&logoColor=white)](https://facebook.com/100077588075894)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/100077588075894)
 &nbsp;
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/pQ7y7ehmZ)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/pQ7y7ehmZ)
 
 </div>
 
 <br/>
 
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     FOOTER WAVE                              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:0f0f0f&height=100&section=footer&fontColor=00d4ff" width="100%" />
-
-*Built with intention. Shipped with care.*
-&nbsp;·&nbsp;
-**© Riha Shahzadi**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:112240,100:0d1117&height=110&section=footer" />
+<sub><b>Riha Shahzadi</b> &nbsp;|&nbsp; MERN Stack Developer</sub>
 
 </div>
 
-<!-- ████████████████████████████████████████████████████████████ -->
-<!--                      END OF README                          -->
-<!-- ████████████████████████████████████████████████████████████ -->
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!--                        END OF FILE                            -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
