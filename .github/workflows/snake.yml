@@ -1,0 +1,38 @@
+# ─────────────────────────────────────────────────────────────
+#  FILE LOCATION:  .github/workflows/snake.yml
+#  PURPOSE:        Generates animated snake from contribution graph
+#  RUNS:           Daily at midnight UTC + on every push to main
+# ─────────────────────────────────────────────────────────────
+
+name: 🐍 Generate Contribution Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"      # daily at 00:00 UTC
+  workflow_dispatch:           # manual trigger from GitHub Actions tab
+  push:
+    branches: [main]
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+
+    steps:
+      - name: Generate Snake SVG (light + dark)
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Deploy to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
