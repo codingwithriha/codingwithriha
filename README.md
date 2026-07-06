@@ -223,17 +223,22 @@ Full-stack messaging platform with WebSocket rooms, auth, and persistent history
 <tr>
 <td width="50%" valign="top">
 
-### 🛒 &nbsp;Full-Stack E-Commerce
+### 🛒 &nbsp;Full-Stack Multi-Vendor E-Commerce (Eshop-MV)
 
 ![Stack](https://img.shields.io/badge/Stack-Next.js+MongoDB-f59e0b?style=flat-square&labelColor=0d1117)
 ![Status](https://img.shields.io/badge/Status-Live-22c55e?style=flat-square&labelColor=0d1117)
 
-SEO-optimized storefront with smart filtering, cart state, and checkout flow.
+Scalable multi-vendor e-commerce platform with customer, seller, and admin workflows, real-time features, secure authentication, and complete order management.
 
-- 🔍 Next.js SSR/SSG for Core Web Vitals
-- 🔎 Express product search + filter API
-- 🛒 Redux cart + order management
-- 💳 Stripe-ready payment integration
+- 🚀 MERN stack architecture (MongoDB, Express.js, React.js, Node.js)
+- 🏪 Multi-vendor seller dashboard with product management
+- 🔐 JWT authentication with secure role-based authorization
+- 🛒 Redux state management for cart, orders, and user data
+- 💬 Real-time messaging and notifications using Socket.io
+- 📧 Email integration for account verification and order updates
+- ☁️ Cloudinary media storage with image upload handling
+- 📦 Order tracking, coupon system, and shop management features
+- 🌐 Fully deployed with responsive UI for desktop and mobile devices
 
 **→ Lighthouse score 95+ across all pages**
 
