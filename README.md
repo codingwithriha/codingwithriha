@@ -239,8 +239,8 @@ SEO-optimized storefront with smart filtering, cart state, and checkout flow.
 
 <br/>
 
-[![Demo](https://img.shields.io/badge/Live_Demo-64ffda?style=for-the-badge&logo=vercel&logoColor=0d1117)](https://riha-shahzadi.vercel.app)
-[![Repo](https://img.shields.io/badge/Repository-0d1117?style=for-the-badge&logo=github&logoColor=64ffda)](https://github.com/codingwithriha)
+[![Demo](https://img.shields.io/badge/Live_Demo-64ffda?style=for-the-badge&logo=vercel&logoColor=0d1117)](https://eshop-mv.vercel.app/)
+[![Repo](https://img.shields.io/badge/Repository-0d1117?style=for-the-badge&logo=github&logoColor=64ffda)](https://github.com/codingwithriha/Eshop-MV)
 
 </td>
 <td width="50%" valign="top">
