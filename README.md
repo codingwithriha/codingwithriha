@@ -177,24 +177,25 @@ Render           ████████░░░░
 <tr>
 <td width="50%" valign="top">
 
-### ⚡ &nbsp;MERN SaaS Dashboard
+### ⚕️ &nbsp;Prescripto – Doctor Appointment Booking System
 
-![MERN](https://img.shields.io/badge/Stack-MERN+TypeScript-64ffda?style=flat-square&labelColor=0d1117)
+![MERN](https://img.shields.io/badge/Stack-MERN-64ffda?style=flat-square&labelColor=0d1117)
 ![Status](https://img.shields.io/badge/Status-Live-22c55e?style=flat-square&labelColor=0d1117)
 
-Multi-tenant SaaS with role-based access, real-time analytics, and a custom component library.
+A full-stack healthcare appointment platform that enables patients to book appointments online, doctors to manage schedules, and administrators to oversee the entire system through dedicated dashboards.
 
-- 🔐 JWT auth + RBAC route protection
-- 📊 Express API + MongoDB aggregation pipelines
-- ⚛️ React + Redux state architecture
-- 🚀 Deployed: Vercel (FE) + Render (API)
-
-**→ Cut client reporting time by ~60%**
+- 👨‍⚕️ Role-based dashboards for Patients, Doctors & Admin
+- 📅 Online appointment booking with secure authentication
+- 💳 Stripe payment integration & Cloudinary image uploads
+- 📊 MongoDB + Express REST APIs with JWT authentication
+- ⚛️ React Context API + Tailwind CSS responsive UI
+- 🚀 Deployed: Vercel (Frontend & Admin) + Vercel (Backend)
 
 <br/>
 
-[![Demo](https://img.shields.io/badge/Live_Demo-64ffda?style=for-the-badge&logo=vercel&logoColor=0d1117)](https://riha-shahzadi.vercel.app)
-[![Repo](https://img.shields.io/badge/Repository-0d1117?style=for-the-badge&logo=github&logoColor=64ffda)](https://github.com/codingwithriha)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-64ffda?style=for-the-badge&logo=vercel&logoColor=0d1117)](https://doctor-appointment-prescripto-frontend.vercel.app)
+[![Admin Panel](https://img.shields.io/badge/Admin_Panel-0d1117?style=for-the-badge&logo=vercel&logoColor=64ffda)](https://doctor-appointment-prescripto-admin.vercel.app)
+[![Repository](https://img.shields.io/badge/Repository-0d1117?style=for-the-badge&logo=github&logoColor=64ffda)](https://github.com/codingwithriha/Doctor-Appointment)
 
 </td>
 <td width="50%" valign="top">
