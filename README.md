@@ -225,7 +225,7 @@ Full-stack messaging platform with WebSocket rooms, auth, and persistent history
 
 ### 🛒 &nbsp;Full-Stack Multi-Vendor E-Commerce (Eshop-MV)
 
-![Stack](https://img.shields.io/badge/Stack-Next.js+MongoDB-f59e0b?style=flat-square&labelColor=0d1117)
+![Stack](https://img.shields.io/badge/Stack-Node.js+MongoDB-f59e0b?style=flat-square&labelColor=0d1117)
 ![Status](https://img.shields.io/badge/Status-Live-22c55e?style=flat-square&labelColor=0d1117)
 
 Scalable multi-vendor e-commerce platform with customer, seller, and admin workflows, real-time features, secure authentication, and complete order management.
