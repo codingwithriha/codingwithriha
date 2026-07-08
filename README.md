@@ -235,7 +235,7 @@ Scalable multi-vendor e-commerce platform with customer, seller, and admin workf
 - 🏪 Multi-vendor seller dashboard with product management
 - 🔐 JWT authentication with secure role-based authorization
 - 🛒 Redux state management for cart, orders, and user data
-- 💬 Real-time messaging and notifications using Socket.io
+- 💬 Real time messaging and notifications using Socket.io
 - 📧 Email integration for account verification and order updates
 - ☁️ Cloudinary media storage with image upload handling
 - 📦 Order tracking, coupon system, and shop management features
