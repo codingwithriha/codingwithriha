@@ -259,8 +259,8 @@ Scalable multi-vendor e-commerce platform with customer, seller, and admin workf
 Production-grade API with MVC architecture, full CRUD, teams, and auth.
 
 - 🏗️ Clean MVC with Express.js + Mongoose
-- 🔐 JWT + bcrypt — protected route layer
-- 📝 Postman-documented — 30+ endpoints
+- 🔐 JWT + bcrypt protected route layer
+- 📝 Postman documented 30+ endpoints
 - 👥 Team workspaces + permission scopes
 
 **→ &lt;200ms avg response under concurrent load**
