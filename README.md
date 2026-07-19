@@ -191,6 +191,8 @@ A full-stack healthcare appointment platform that enables patients to book appoi
 - ⚛️ React Context API + Tailwind CSS responsive UI
 - 🚀 Deployed: Vercel (Frontend & Admin) + Vercel (Backend)
 
+**→ Full CRUD listings with owner-scoped permissions**
+
 <br/>
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-64ffda?style=for-the-badge&logo=vercel&logoColor=0d1117)](https://doctor-appointment-prescripto-frontend.vercel.app)
@@ -200,24 +202,28 @@ A full-stack healthcare appointment platform that enables patients to book appoi
 </td>
 <td width="50%" valign="top">
 
-### 💬 &nbsp;Real-Time Chat App
-
-![Stack](https://img.shields.io/badge/Stack-MERN+Socket.io-a78bfa?style=flat-square&labelColor=0d1117)
+### 🏠 &nbsp;Estate Hub — Real Estate Platform
+![Stack](https://img.shields.io/badge/Stack-MERN-a78bfa?style=flat-square&labelColor=0d1117)
 ![Status](https://img.shields.io/badge/Status-Live-22c55e?style=flat-square&labelColor=0d1117)
+![Auth](https://img.shields.io/badge/Auth-Firebase-f97316?style=flat-square&labelColor=0d1117)
 
-Full-stack messaging platform with WebSocket rooms, auth, and persistent history.
+FullStack real estate listing platform with auth, image uploads, and dynamic search/filtering.
 
-- ⚡ Socket.io rooms + live typing indicators
-- 🗄️ MongoDB messages with cursor pagination
-- 🔄 JWT refresh token rotation
-- 📱 Fully responsive React UI
+- 🔐 Email/password + Google OAuth authentication (Firebase, JWT sessions via HTTP-only cookies) 
+- 🏘️ Full CRUD listings create, edit, delete with owner-scoped permissions
+- 🖼️ Multi-image uploads (up to 6 per listing) via Cloudinary, unsigned client-side upload
+- 🔎 Search & filter by type (rent/sale), price range, amenities, and active offers
+- 📄 Listing detail pages with an image carousel and landlord contact form
+- 👤 Editable user profiles with live avatar upload and sync
+- 📱 Fully responsive UI built with Tailwind CSS, state managed via Redux Toolkit + Redux Persist
 
-**→ Sub-100ms message delivery latency**
 
+**→ Full CRUD listings with owner-scoped permissions and real-time image pipeline**
 <br/>
 
-[![Demo](https://img.shields.io/badge/Live_Demo-64ffda?style=for-the-badge&logo=vercel&logoColor=0d1117)](https://riha-shahzadi.vercel.app)
-[![Repo](https://img.shields.io/badge/Repository-0d1117?style=for-the-badge&logo=github&logoColor=64ffda)](https://github.com/codingwithriha)
+[![Demo](https://img.shields.io/badge/Live_Demo-64ffda?style=for-the-badge&logo=vercel&logoColor=0d1117)](https://estate-hubclient.vercel.app)
+[![Repo](https://img.shields.io/badge/Repository-0d1117?style=for-the-badge&logo=github&logoColor=64ffda)](https://github.com/codingwithriha/MERN-Estate)
+
 
 </td>
 </tr>
