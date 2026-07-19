@@ -202,7 +202,7 @@ A full-stack healthcare appointment platform that enables patients to book appoi
 </td>
 <td width="50%" valign="top">
 
-### 🏠 &nbsp;Estate Hub — Real Estate Platform
+### 🏠 &nbsp;Estate Hub (Real Estate Platform)
 ![Stack](https://img.shields.io/badge/Stack-MERN-a78bfa?style=flat-square&labelColor=0d1117)
 ![Status](https://img.shields.io/badge/Status-Live-22c55e?style=flat-square&labelColor=0d1117)
 ![Auth](https://img.shields.io/badge/Auth-Firebase-f97316?style=flat-square&labelColor=0d1117)
