@@ -257,24 +257,38 @@ Scalable multi-vendor e-commerce platform with customer, seller, and admin workf
 </td>
 <td width="50%" valign="top">
 
-### 📋 &nbsp;REST API — Task Manager
+### 🎓 &nbsp;LearnSphere – Full-Stack Learning Management System
 
 ![Stack](https://img.shields.io/badge/Stack-Node.js+MongoDB-22c55e?style=flat-square&labelColor=0d1117)
 ![Status](https://img.shields.io/badge/Status-Live-22c55e?style=flat-square&labelColor=0d1117)
 
-Production-grade API with MVC architecture, full CRUD, teams, and auth.
+A full-stack Learning Management System that provides a complete online learning experience where students can discover, purchase, and stream courses, interact through discussions, and manage their learning journey. The platform also includes a powerful admin dashboard for managing users, courses, orders, content, analytics, and notifications.
 
-- 🏗️ Clean MVC with Express.js + Mongoose
-- 🔐 JWT + bcrypt protected route layer
-- 📝 Postman documented 30+ endpoints
-- 👥 Team workspaces + permission scopes
+- 🎓 Browse and filter courses by categories
+- 🔐 Secure authentication with email activation and JWT
+- 🌐 Social login with Google & GitHub
+- 💳 Secure course purchases with Stripe integration
+- 🎥 Stream course videos with structured sections and lessons
+- 💬 Ask questions and participate in course discussions
+- ⭐ Rate and review purchased courses
+- 👤 Manage user profiles, avatars, and passwords
+- 📚 Create, edit, and manage complete course content
+- 👥 Admin user management with role-based access control
+- 🛒 Manage course orders and payment information
+- 📊 Interactive analytics for users, courses, and orders
+- 🎨 Dynamic website content management including banners, categories, and FAQs
+- 🔔 Real-time notifications for new orders and student questions
+- ⚡ Redis caching with fallback support for improved performance
+- 🖼️ Cloudinary integration for image and media management
+- 📧 Automated email notifications using Nodemailer and EJS templates
+- 🚀 Deployed on Vercel with separate frontend and backend services
 
-**→ &lt;200ms avg response under concurrent load**
+**→ &lt;A complete LMS platform featuring course management, secure payments, real-time communication, analytics, and a powerful admin dashboard**
 
 <br/>
 
-[![Demo](https://img.shields.io/badge/Live_Demo-64ffda?style=for-the-badge&logo=vercel&logoColor=0d1117)](https://riha-shahzadi.vercel.app)
-[![Repo](https://img.shields.io/badge/Repository-0d1117?style=for-the-badge&logo=github&logoColor=64ffda)](https://github.com/codingwithriha)
+[![Demo](https://img.shields.io/badge/Live_Demo-64ffda?style=for-the-badge&logo=vercel&logoColor=0d1117)](https://learn-sphere-ui.vercel.app)
+[![Repo](https://img.shields.io/badge/Repository-0d1117?style=for-the-badge&logo=github&logoColor=64ffda)](https://github.com/codingwithriha/LearnSphere)
 
 </td>
 </tr>
