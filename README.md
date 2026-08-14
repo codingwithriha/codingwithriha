@@ -276,7 +276,7 @@ A full-stack Learning Management System that provides a complete online learning
 - 📚 Create, edit, and manage complete course content
 - 👥 Admin user management with role-based access control
   
-**→ &lt;A complete LMS platform featuring course management, secure payments, real-time communication, analytics, and a powerful admin dashboard**
+**→ A complete LMS platform featuring course management, secure payments, real-time communication, analytics, and a powerful admin dashboard**
 
 <br/>
 
