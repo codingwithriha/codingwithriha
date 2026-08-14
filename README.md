@@ -257,8 +257,9 @@ Scalable multi-vendor e-commerce platform with customer, seller, and admin workf
 </td>
 <td width="50%" valign="top">
 
-### 🎓 &nbsp;LearnSphere – Full-Stack Learning Management System
+### 🎓 &nbsp;LearnSphere – FullStack Learning Management System
 
+![Stack](https://img.shields.io/badge/Stack-MERN-a78bfa?style=flat-square&labelColor=0d1117)
 ![Stack](https://img.shields.io/badge/Stack-Node.js+MongoDB-22c55e?style=flat-square&labelColor=0d1117)
 ![Status](https://img.shields.io/badge/Status-Live-22c55e?style=flat-square&labelColor=0d1117)
 
@@ -274,15 +275,7 @@ A full-stack Learning Management System that provides a complete online learning
 - 👤 Manage user profiles, avatars, and passwords
 - 📚 Create, edit, and manage complete course content
 - 👥 Admin user management with role-based access control
-- 🛒 Manage course orders and payment information
-- 📊 Interactive analytics for users, courses, and orders
-- 🎨 Dynamic website content management including banners, categories, and FAQs
-- 🔔 Real-time notifications for new orders and student questions
-- ⚡ Redis caching with fallback support for improved performance
-- 🖼️ Cloudinary integration for image and media management
-- 📧 Automated email notifications using Nodemailer and EJS templates
-- 🚀 Deployed on Vercel with separate frontend and backend services
-
+  
 **→ &lt;A complete LMS platform featuring course management, secure payments, real-time communication, analytics, and a powerful admin dashboard**
 
 <br/>
