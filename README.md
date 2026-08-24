@@ -24,6 +24,8 @@
 &nbsp;
 [![Hire Me](https://img.shields.io/badge/💼_Open_to_Work-MERN_Roles-64ffda?style=for-the-badge&labelColor=112240)](https://linkedin.com/in/riha-shahzadi)
 &nbsp;
+[![Medium](https://img.shields.io/badge/Medium-rihashahzadi-64ffda?style=for-the-badge&logo=medium&logoColor=0d1117&labelColor=112240)](https://medium.com/@rihashahzadi)
+&nbsp;
 [![Profile Views](https://komarev.com/ghpvc/?username=codingwithriha&style=for-the-badge&color=64ffda&label=Profile+Views&labelColor=112240)](https://github.com/codingwithriha)
 
 </div>
